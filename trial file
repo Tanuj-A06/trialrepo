@@ -1,0 +1,8 @@
+import java.util.*;
+public lass cf
+{
+public static void main(String args[]){
+Scanner in=new Scanner(System.in);
+System.out.println("Trial file creation");
+}
+}
